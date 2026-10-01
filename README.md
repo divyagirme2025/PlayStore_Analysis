@@ -24,8 +24,8 @@ Interactive Power BI dashboard analysing Google Play Store apps and user reviews
 5. Trends & Top Apps
 
 ## Screenshots
-![Overview](screenshots/01-overview.png)
-![Category Analysis](screenshots/02-category.png)
+![Overview](Screenshot_1-10-2026_10751_)
+![Category Analysis](Screenshot_1-10-2026_1099_)
 ![Ratings and Pricing](screenshots/03-ratings.png)
 ![Sentiment Analysis](screenshots/04-sentiment.png)
 ![Trends and Top Apps](screenshots/05-trends.png)
